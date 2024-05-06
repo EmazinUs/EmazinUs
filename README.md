@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">  I'm Tushar Rathor, a passionate software developer on a journey to explore the endless possibilities of code. Welcome to my GitHub profile, where I share my projects, contributions, and learnings in the world of technology.</p>
 
 ###
 
