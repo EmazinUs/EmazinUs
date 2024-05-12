@@ -6,9 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EmazinUs.EmazinUs" alt="visitors" height="27px" width="auto">
 </div>
 
-<p align="center">
-  I'm Tushar Rathor, a passionate software developer on a journey to explore the endless possibilities of code. Welcome to my GitHub profile, where I share my projects, contributions, and learnings in the world of technology.
-</p>
+
 
 <h2 align="left">About me</h2>
 
