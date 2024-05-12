@@ -1,4 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
 ###
 
