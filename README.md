@@ -2,6 +2,10 @@
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
+<div align="center">   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=EmazinUs.EmazinUs" alt="visitors" height="27px" width="auto">
+</div>
+
 
 ###
 
