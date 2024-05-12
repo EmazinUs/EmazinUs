@@ -38,7 +38,7 @@ Fluent in both English and Hindi, I bring a diverse skill set to the table, incl
 ###
  <img
             className="w-full h-auto"
-            src="https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,css,,figma,git,github,html,ipfs,js,jquery,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,tailwind,vercel,vite,vscode,yarn,express,materialui&perline=15"
+            src="https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,css,figma,git,github,html,ipfs,js,jquery,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,tailwind,vercel,vite,vscode,yarn,express,materialui&perline=15"
             alt="504 Error! Reload again."
             loading="lazy"
           />
@@ -59,5 +59,11 @@ Fluent in both English and Hindi, I bring a diverse skill set to the table, incl
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
 </div>
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tushar-rathor-14842b257/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EmazinUs)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tusharrathoredith@gmail.com)
+
 
 ###
