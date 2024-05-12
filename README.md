@@ -5,6 +5,12 @@
 <div align="center">   
     <img src="https://visitor-badge.laobi.icu/badge?page_id=EmazinUs.EmazinUs" alt="visitors" height="27px" width="auto">
 </div>
+<div align="center">
+<!--   <a href="https://github.com/EmazinUs">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmazinUs" alt="Visitors">
+  </a> -->
+</div>
+
 
 
 ###
