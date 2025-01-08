@@ -11,7 +11,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  Passionate second-year B.Tech CSE student specializing in MERN stack development. Proficient in MongoDB, Express.js, React, and Node.js. Currently focusing on mastering Data Structures and Algorithms (DSA) to enhance problem-solving skills.
+  Passionate third-year B.Tech CSE student specializing in MERN stack development. Proficient in MongoDB, Express.js, React, and Node.js. Currently focusing on mastering Data Structures and Algorithms (DSA) to enhance problem-solving skills.
 <!--   My journey in the world of technology has been guided by a relentless pursuit of knowledge and a commitment to crafting seamless web experiences. Fluent in both English and Hindi, I bring a diverse skill set to the table, including expertise in Redux.js and Front-End Development. Inspired by industry leaders, I'm always seeking opportunities to contribute to the dynamic tech industry. -->
   <br>
 <!--   I believe in leveraging technology for positive change, and I'm on the lookout for web development roles where I can make a real impact. Let's connect and explore the endless possibilities at the intersection of technology and innovation! Proficient in MongoDB, Express.js, React, and Node.js, I'm constantly honing my skills, with a current focus on mastering Data Structures and Algorithms (DSA) to enhance my problem-solving abilities. My projects, such as the MERN stack bookstore application and a secure login page developed with HTML, CSS, and JavaScript, reflect my dedication to innovation and quality. -->
